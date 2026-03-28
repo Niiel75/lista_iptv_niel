@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1888
+
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2129
+
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20News%20HD.png" group-title="NOTÍCIAS",Band News FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1811
+
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20News.png" group-title="NOTÍCIAS",Band News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2057
+
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN%20Brasil.png" group-title="NOTÍCIAS",CNN Brasil FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/22224
+
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN%20Brasil.png" group-title="NOTÍCIAS",CNN Brasil
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/22226
+
+#EXTINF:-1 tvg-id="CNNMoney.br" tvg-name="CNN Money " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" group-title="NOTÍCIAS",CNN Money
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/963936
+
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN Internacional " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" group-title="NOTÍCIAS",CNN Internacional
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/62368
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News FHD " tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/66549
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News " tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/66548
+
+#EXTINF:-1 tvg-id="UOL.br" tvg-name="Canal UOL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/09/uol-logo-0.png" group-title="NOTÍCIAS",Canal UOL FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1280676
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT News FHD" tvg-logo="http://st1.binctv.org:8080/icon/3461-s-1765896662468.png" group-title="NOTÍCIAS",SBT News FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1277675
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="http://st1.binctv.org:8080/icon/3461-s-1765896662468.png" group-title="NOTÍCIAS",SBT News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1277677
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20News.png" group-title="NOTÍCIAS",Record News FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1861
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record%20News.png" group-title="NOTÍCIAS",Record News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2204
+
+#EXTINF:-1 tvg-id="CNBC.br" tvg-name="CNBC Times Brasil" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNBC.png" group-title="NOTÍCIAS",CNBC Times Brasil
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/965112
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/512px-BBC_World_News_2022.svg.png" group-title="NOTÍCIAS",BBC World News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1269598
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX News (CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="NOTÍCIAS",FOX News (CA)
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1269600
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI News 24hs" tvg-logo="https://prinplay.com.br/server/Rai%20News%2024.png" group-title="NOTÍCIAS",RAI News 24hs
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1266922
+
+#EXTINF:-1 tvg-id="BBCWorld.br" tvg-name="Bloomberg News " tvg-logo="https://prinplay.com.br/server/Bloomberg.png" group-title="NOTÍCIAS",Bloomberg News
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1266920
+
