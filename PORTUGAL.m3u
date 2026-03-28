@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" group-title="PORTUGAL",RTP 1
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1600
+
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" group-title="PORTUGAL",RTP 2
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1599
+
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" group-title="PORTUGAL",RTP 3
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/899601
+
+#EXTINF:-1 tvg-id="" tvg-name="RTP Acores" tvg-logo="https://prinplay.com.br/server/RTP%20A%C3%A7ores.png" group-title="PORTUGAL",RTP Acores
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1498
+
+#EXTINF:-1 tvg-id="" tvg-name="RTP Africa" tvg-logo="https://prinplay.com.br/server/RTP%20%C3%81frica.png" group-title="PORTUGAL",RTP Africa
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1501
+
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Madeira.png" group-title="PORTUGAL",RTP Madeira
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1500
+
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memoria" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Memo%CC%81ria.png" group-title="PORTUGAL",RTP Memoria
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1499
+
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" group-title="PORTUGAL",SIC
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1480
+
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" group-title="PORTUGAL",TVI
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1484
+
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" group-title="PORTUGAL",SIC Noticias
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1493
+
+#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" group-title="PORTUGAL",CMTV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1494
+
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" group-title="PORTUGAL",CNN Portugal
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/75838
+
+#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TCV%20Internacional.png" group-title="PORTUGAL",TCV Internacional
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/899602
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Portugal.png" group-title="PORTUGAL",Globo Portugal
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2433
+
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" group-title="PORTUGAL",SIC Caras
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1491
+
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" group-title="PORTUGAL",SIC Mulher
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1490
+
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" group-title="PORTUGAL",SIC Radical
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1492
+
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficcao" tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",TVI Ficcao
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1487
+
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" group-title="PORTUGAL",TVI Reality
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1488
+
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="Porto Canal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Porto%20Canal.png" group-title="PORTUGAL",Porto Canal
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1497
+
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" group-title="PORTUGAL",Hollywood
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1567
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Panda.png" group-title="PORTUGAL",Canal Panda
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1503
+
+#EXTINF:-1 tvg-id="" tvg-name="Panda Kids" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Panda%20Biggs.png" group-title="PORTUGAL",Panda Kids
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1504
+
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cartoon%20Network.png" group-title="PORTUGAL",Cartoon Network
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1505
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Baby%20TV.png" group-title="PORTUGAL",Baby TV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1508
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel³" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Channel.png" group-title="PORTUGAL",Disney Channel³
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1510
+
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Kids.png" group-title="PORTUGAL",SIC K
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1509
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nickelodeon.png" group-title="PORTUGAL",Nickelodeon
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1506
+
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TLC.png" group-title="PORTUGAL",TLC
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1587
+
+#EXTINF:-1 tvg-id="24Kitchen.HD.pt" tvg-name="24 Kitchen" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" group-title="PORTUGAL",24 Kitchen
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/12779
+
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD" tvg-name="E! " tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment.png" group-title="PORTUGAL",E!
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1588
+
+#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="Odisseia" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Odisseia.png" group-title="PORTUGAL",Odisseia
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1579
+
+#EXTINF:-1 tvg-id="" tvg-name="Caça e Pesca" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png" group-title="PORTUGAL",Caça e Pesca
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1583
+
+#EXTINF:-1 tvg-id="" tvg-name="Cacavision" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7avision.png" group-title="PORTUGAL",Cacavision
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1584
+
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fuel%20TV.png" group-title="PORTUGAL",Fuel TV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1596
+
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MTV.png" group-title="PORTUGAL",MTV Portugal
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1591
+
+#EXTINF:-1 tvg-id="MCM POP HD" tvg-name="MCM Pop" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MCM%20Pop.png" group-title="PORTUGAL",MCM Pop
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1593
+
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" tvg-name="ZAP Viva " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL",ZAP Viva
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/12778
+
+#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Urban " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Trace%20Urban.png" group-title="PORTUGAL",Trace Urban
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/75839
+
