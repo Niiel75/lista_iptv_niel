@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2035
+
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2218
+
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SporTV 4k" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV.png" group-title="ESPORTES",SporTV 4k
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13069
+
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1917
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2219
+
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1918
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 3
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2220
+
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%203.png" group-title="ESPORTES",SporTV 4 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13075
+
+#EXTINF:-1 tvg-id="" tvg-name="GE TV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ge-logo.png" group-title="ESPORTES",GE TV FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1277946
+
+#EXTINF:-1 tvg-id="" tvg-name="Redbull TV" tvg-logo="https://play-lh.googleusercontent.com/9h0NQg2_Pwrb7_bWfzEYLiY-0Nfnz4lmPZQvBOvOtzY2gAiHVONfEMujrydFPoch-vg=w256" group-title="ESPORTES",Redbull TV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1280675
+
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1812
+
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports.png" group-title="ESPORTES",Band Sports
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2059
+
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13099
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1880
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2075
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Combate.png" group-title="ESPORTES",Combate FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13095
+
+#EXTINF:-1 tvg-id="" tvg-name="Xsports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Xsports_logo.png/960px-Xsports_logo.png" group-title="ESPORTES",Xsports FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1270005
+

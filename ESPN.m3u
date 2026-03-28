@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1883
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil.png" group-title="ESPN",ESPN
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2104
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4k" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4k
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13087
+
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1887
+
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2121
+
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13078
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1884
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",Espn 2
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2101
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%202.png" group-title="ESPN",ESPN 2 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13090
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 Alternativo
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1130
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1827
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2102
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN 3 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13084
+
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1886
+
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2123
+
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 5 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13081
+
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1828
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2106
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13093
+
