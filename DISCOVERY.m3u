@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1881
+
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2081
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel Alternativo
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1126
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1824
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2092
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo Alternativo
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1129
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="Discovery Home&Health FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1820
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2085
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home & Health Alternativo
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1127
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="Investigation Discovery FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1843
+
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2151
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1825
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20World.png" group-title="DISCOVERY",Discovery World
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2094
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1823
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Theater.png" group-title="DISCOVERY",Discovery Theater
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2090
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Science%20HD.png" group-title="DISCOVERY",Discovery Science FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1822
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Science.png" group-title="DISCOVERY",Discovery Science
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2089
+
