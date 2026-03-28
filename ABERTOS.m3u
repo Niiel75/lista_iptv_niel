@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21%20HD.png" group-title="ABERTOS",Rede TV FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1910
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Rede%20TV%21.png" group-title="ABERTOS",Rede TV
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2208
+
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário Fortaleza FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Dia%CC%81rio.png" group-title="ABERTOS",TV Diário Fortaleza FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1914
+
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário Fortaleza" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Dia%CC%81rio.png" group-title="ABERTOS",TV Diário Fortaleza
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2288
+
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Tv Cultura FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",Tv Cultura FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1909
+
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2271
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Brasill.png" group-title="ABERTOS",TV Brasil FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/897609
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Brasill.png" group-title="ABERTOS",TV Brasil
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2249
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Justic%CC%A7a.png" group-title="ABERTOS",TV Justica
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2247
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Senado.png" group-title="ABERTOS",TV Senado
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2246
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Gazeta.png" group-title="ABERTOS",TV Gazeta SP FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/24271
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Gazeta.png" group-title="ABERTOS",TV Gazeta SP
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/24272
+
+#EXTINF:-1 tvg-id="" tvg-name="Futura FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Futura.png" group-title="ABERTOS",Futura FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1834
+
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Futura.png" group-title="ABERTOS",Futura
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2125
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20do%20Boi.png" group-title="ABERTOS",Canal do Boi
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2291
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Rural.png" group-title="ABERTOS",Canal Rural
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1183
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PA" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cultura.png" group-title="ABERTOS",TV Cultura PA
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/928412
+
